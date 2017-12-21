@@ -212,7 +212,7 @@ body {
       width: 80%;
       height: 100%;
       float: left;
-      background-image: url(../code/gear.jpg);
+      background-image: url(gear.jpg);
       background-position: center;
       background-repeat: no-repeat; }
       /* line 232, code/style.scss */
@@ -306,7 +306,7 @@ body {
       width: 18.5%;
       height: 100%;
       background-color: black;
-      background-image: url(../code/products/baggg.jpg);
+      background-image: url(products/baggg.jpg);
       background-position: left;
       background-size: cover; }
       /* line 332, code/style.scss */
@@ -342,27 +342,27 @@ body {
           width: 80%;
           margin: auto;
           height: 56%;
-          background-image: url(../code/products/bag.jpg);
+          background-image: url(products/bag.jpg);
           background-size: contain;
           background-repeat: no-repeat; }
         /* line 370, code/style.scss */
         .wrapper1 .produt .products .sub .imag2 {
-          background-image: url(../code/products/cap.jpg); }
+          background-image: url(products/cap.jpg); }
         /* line 374, code/style.scss */
         .wrapper1 .produt .products .sub .imag3 {
-          background-image: url(../code/products/cam%20indoor.jpg); }
+          background-image: url(products/cam%20indoor.jpg); }
         /* line 378, code/style.scss */
         .wrapper1 .produt .products .sub .imag4 {
-          background-image: url(../code/products/ladies%20bag.jpg); }
+          background-image: url(products/ladies%20bag.jpg); }
         /* line 382, code/style.scss */
         .wrapper1 .produt .products .sub .imag5 {
-          background-image: url(../code/products/thermometer.jpg); }
+          background-image: url(products/thermometer.jpg); }
         /* line 386, code/style.scss */
         .wrapper1 .produt .products .sub .imag6 {
-          background-image: url(../code/products/desk%20lamp.jpg); }
+          background-image: url(products/desk%20lamp.jpg); }
         /* line 390, code/style.scss */
         .wrapper1 .produt .products .sub .imag7 {
-          background-image: url(../code/products/anker.jpg); }
+          background-image: url(products/anker.jpg); }
         /* line 394, code/style.scss */
         .wrapper1 .produt .products .sub .text2 {
           margin-left: 7%;
