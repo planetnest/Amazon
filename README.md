@@ -1,3 +1,3 @@
 code
-https://git.heroku.com/devcrib-amazon-clone.git
+https://devcrib-amazon-clone.herokuapp.com/
 https://devcrib.github.io/Amazon/
